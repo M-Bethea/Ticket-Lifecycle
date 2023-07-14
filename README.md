@@ -26,8 +26,8 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 <p>
 1. Go to the Support Ticket Center <br>
-i.Open a new ticket  <br>
-ii. Create tickets
+&nbsp;  i.Open a new ticket  <br>
+&nbsp; &nbsp;  ii. Create tickets
 </p>
 <p>
 <img src="https://github.com/M-Bethea/Ticket-Lifecycle/assets/139162550/2f539ea1-b0a4-4102-84e9-b4d3836ef8a1" height="70%" width="70%" alt="Ticket Creation"/>
@@ -46,12 +46,12 @@ ii. Create tickets
 
 <p>
 2. Sign in as "Jane Doe" in the Admin Login <br>
-  A. Open a ticket and change the Priority Level, Assigned To and SLA. By hovering over current statuses <br>
-   i. Make priority "Emergency" <br>
-   i. Make severity "Sev-A" <br>
-   i. Transfer the ticket to another department <br>
-  B. Make note of transfer <br>
-    i. When "resolved", close the ticket
+  &nbsp; A. Open a ticket and change the Priority Level, Assigned To and SLA. By hovering over current statuses <br>
+  &nbsp;  &nbsp; i. Make priority "Emergency" <br>
+  &nbsp; &nbsp;  &nbsp; i. Make severity "Sev-A" <br>
+  &nbsp; &nbsp; &nbsp; &nbsp;  i. Transfer the ticket to another department <br>
+B. Make note of transfer <br>
+  &nbsp; i. When "resolved", close the ticket
 </p>
 <p>
 <img src="https://github.com/M-Bethea/Ticket-Lifecycle/assets/139162550/a3ff80c3-566b-48f4-aaa6-e2ceb7fd1063" height="70%" width="70%" alt="Ticket Transfer"/>
@@ -72,8 +72,8 @@ ii. Create tickets
 
 <p>
 3. Continue working tickets <br>
-   A. Make ticket priority "High" <br>
-   i. Make Severity "Sev-B"
+  &nbsp;  A. Make ticket priority "High" <br>
+ &nbsp;  &nbsp;  i. Make Severity "Sev-B"
 </p>
 <p>
 <img src="https://github.com/M-Bethea/Ticket-Lifecycle/assets/139162550/1d356290-0427-4e9c-9ea7-50588c30e5e2" height="70%" width="70%" alt="Working Tickets"/>
@@ -90,9 +90,9 @@ ii. Create tickets
 <br />
 
 <p>
-4. Final Ticket
-  A. Make Priority "Low" <br>
-  i. Make Severity "Sev-C"
+4. Final Ticket <br>
+ &nbsp;  A. Make Priority "Low" <br>
+  &nbsp; &nbsp; i. Make Severity "Sev-C"
 </p>
 <p>
 <img src="https://github.com/M-Bethea/Ticket-Lifecycle/assets/139162550/fb9b21e5-8755-4500-8f04-2e499cafd3f0" height="70%" width="70%" alt="Working Tickets"/>
