@@ -69,9 +69,35 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <br />
 
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+3. Continue working tickets
 </p>
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/M-Bethea/Ticket-Lifecycle/assets/139162550/1d356290-0427-4e9c-9ea7-50588c30e5e2" height="70%" width="70%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+<img src="https://github.com/M-Bethea/Ticket-Lifecycle/assets/139162550/69503f42-0d66-4acc-a058-e4e2f051fc36" height="70%" width="70%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+<img src="https://github.com/M-Bethea/Ticket-Lifecycle/assets/139162550/99f26b85-16f0-435e-8cdd-0953760f9f3b" height="70%" width="70%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+<img src="https://github.com/M-Bethea/Ticket-Lifecycle/assets/139162550/48844b83-fbb6-44d0-98ce-4b76bcc79d5f" height="70%" width="70%" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+
+<p>
+4. Final Ticket
+</p>
+<p>
+<img src="https://github.com/M-Bethea/Ticket-Lifecycle/assets/139162550/1d356290-0427-4e9c-9ea7-50588c30e5e2" height="70%" width="70%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+<img src="https://github.com/M-Bethea/Ticket-Lifecycle/assets/139162550/69503f42-0d66-4acc-a058-e4e2f051fc36" height="70%" width="70%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+<img src="https://github.com/M-Bethea/Ticket-Lifecycle/assets/139162550/99f26b85-16f0-435e-8cdd-0953760f9f3b" height="70%" width="70%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+<img src="https://github.com/M-Bethea/Ticket-Lifecycle/assets/139162550/48844b83-fbb6-44d0-98ce-4b76bcc79d5f" height="70%" width="70%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
