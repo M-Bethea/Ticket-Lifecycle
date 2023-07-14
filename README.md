@@ -45,10 +45,10 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <br />
 
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+2. Sign in as "Jane Doe" in the Admin Login
 </p>
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/M-Bethea/Ticket-Lifecycle/assets/139162550/a3ff80c3-566b-48f4-aaa6-e2ceb7fd1063" height="70%" width="70%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 
