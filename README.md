@@ -46,13 +46,25 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 <p>
 2. Sign in as "Jane Doe" in the Admin Login <br>
-  A. Open a ticket and change the Priority Level, Assigned To and SLA. By hovering over current statuses
+  A. Open a ticket and change the Priority Level, Assigned To and SLA. By hovering over current statuses <br>
+   i. Transfer the ticket to another department
+  B. Make note of transfer
+    i. When "resolved", close the ticket
 </p>
 <p>
 <img src="https://github.com/M-Bethea/Ticket-Lifecycle/assets/139162550/a3ff80c3-566b-48f4-aaa6-e2ceb7fd1063" height="70%" width="70%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 <img src="https://github.com/M-Bethea/Ticket-Lifecycle/assets/139162550/ba4a9bde-db47-443c-b285-344fe8602eb2" height="70%" width="70%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+<img src="https://github.com/M-Bethea/Ticket-Lifecycle/assets/139162550/b5326fbd-be51-4ffe-809a-3284ca477097" height="70%" width="70%" alt="Ticket Transfer"/>
+</p>
+<p>
+<img src="https://github.com/M-Bethea/Ticket-Lifecycle/assets/139162550/d5daa3be-6465-43b3-9d58-90eb0b040b36" height="70%" width="70%" alt="Ticket Transfer"/>
+</p>
+<p>
+<img src="https://github.com/M-Bethea/Ticket-Lifecycle/assets/139162550/0fd647a6-cc99-4084-95f2-2a5077de8406" height="70%" width="70%" alt="Ticket Transfer"/>
 </p>
 <br />
 
