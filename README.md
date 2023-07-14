@@ -26,8 +26,8 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 <p>
 1. Go to the Support Ticket Center <br>
-  i.Open a new ticket  <br>
-  ii. Create tickets
+i.Open a new ticket  <br>
+ii. Create tickets
 </p>
 <p>
 <img src="https://github.com/M-Bethea/Ticket-Lifecycle/assets/139162550/2f539ea1-b0a4-4102-84e9-b4d3836ef8a1" height="70%" width="70%" alt="Ticket Creation"/>
@@ -47,15 +47,17 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <p>
 2. Sign in as "Jane Doe" in the Admin Login <br>
   A. Open a ticket and change the Priority Level, Assigned To and SLA. By hovering over current statuses <br>
-   i. Transfer the ticket to another department
-  B. Make note of transfer
+   i. Make priority "Emergency" <br>
+   i. Make severity "Sev-A" <br>
+   i. Transfer the ticket to another department <br>
+  B. Make note of transfer <br>
     i. When "resolved", close the ticket
 </p>
 <p>
-<img src="https://github.com/M-Bethea/Ticket-Lifecycle/assets/139162550/a3ff80c3-566b-48f4-aaa6-e2ceb7fd1063" height="70%" width="70%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/M-Bethea/Ticket-Lifecycle/assets/139162550/a3ff80c3-566b-48f4-aaa6-e2ceb7fd1063" height="70%" width="70%" alt="Ticket Transfer"/>
 </p>
 <p>
-<img src="https://github.com/M-Bethea/Ticket-Lifecycle/assets/139162550/ba4a9bde-db47-443c-b285-344fe8602eb2" height="70%" width="70%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/M-Bethea/Ticket-Lifecycle/assets/139162550/ba4a9bde-db47-443c-b285-344fe8602eb2" height="70%" width="70%" alt="Ticket Transfer"/>
 </p>
 <p>
 <img src="https://github.com/M-Bethea/Ticket-Lifecycle/assets/139162550/b5326fbd-be51-4ffe-809a-3284ca477097" height="70%" width="70%" alt="Ticket Transfer"/>
@@ -69,35 +71,33 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <br />
 
 <p>
-3. Continue working tickets
+3. Continue working tickets <br>
+   A. Make ticket priority "High" <br>
+   i. Make Severity "Sev-B"
 </p>
 <p>
-<img src="https://github.com/M-Bethea/Ticket-Lifecycle/assets/139162550/1d356290-0427-4e9c-9ea7-50588c30e5e2" height="70%" width="70%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/M-Bethea/Ticket-Lifecycle/assets/139162550/1d356290-0427-4e9c-9ea7-50588c30e5e2" height="70%" width="70%" alt="Working Tickets"/>
 </p>
 <p>
-<img src="https://github.com/M-Bethea/Ticket-Lifecycle/assets/139162550/69503f42-0d66-4acc-a058-e4e2f051fc36" height="70%" width="70%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/M-Bethea/Ticket-Lifecycle/assets/139162550/69503f42-0d66-4acc-a058-e4e2f051fc36" height="70%" width="70%" alt="Working Tickets"/>
 </p>
 <p>
-<img src="https://github.com/M-Bethea/Ticket-Lifecycle/assets/139162550/99f26b85-16f0-435e-8cdd-0953760f9f3b" height="70%" width="70%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/M-Bethea/Ticket-Lifecycle/assets/139162550/99f26b85-16f0-435e-8cdd-0953760f9f3b" height="70%" width="70%" alt="Working Tickets"/>
 </p>
 <p>
-<img src="https://github.com/M-Bethea/Ticket-Lifecycle/assets/139162550/48844b83-fbb6-44d0-98ce-4b76bcc79d5f" height="70%" width="70%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/M-Bethea/Ticket-Lifecycle/assets/139162550/48844b83-fbb6-44d0-98ce-4b76bcc79d5f" height="70%" width="70%" alt="Working Tickets"/>
 </p>
 <br />
 
 <p>
 4. Final Ticket
+  A. Make Priority "Low" <br>
+  i. Make Severity "Sev-C"
 </p>
 <p>
-<img src="https://github.com/M-Bethea/Ticket-Lifecycle/assets/139162550/1d356290-0427-4e9c-9ea7-50588c30e5e2" height="70%" width="70%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/M-Bethea/Ticket-Lifecycle/assets/139162550/fb9b21e5-8755-4500-8f04-2e499cafd3f0" height="70%" width="70%" alt="Working Tickets"/>
 </p>
 <p>
-<img src="https://github.com/M-Bethea/Ticket-Lifecycle/assets/139162550/69503f42-0d66-4acc-a058-e4e2f051fc36" height="70%" width="70%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-<img src="https://github.com/M-Bethea/Ticket-Lifecycle/assets/139162550/99f26b85-16f0-435e-8cdd-0953760f9f3b" height="70%" width="70%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-<img src="https://github.com/M-Bethea/Ticket-Lifecycle/assets/139162550/48844b83-fbb6-44d0-98ce-4b76bcc79d5f" height="70%" width="70%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/M-Bethea/Ticket-Lifecycle/assets/139162550/725d11c8-7e34-4553-9d03-f806bca71824" height="70%" width="70%" alt="Working Tickets"/>
 </p>
 <br />
