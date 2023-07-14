@@ -45,10 +45,14 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <br />
 
 <p>
-2. Sign in as "Jane Doe" in the Admin Login
+2. Sign in as "Jane Doe" in the Admin Login <br>
+  A. Open a ticket and change the Priority Level, Assigned To and SLA. By hovering over current statuses
 </p>
 <p>
 <img src="https://github.com/M-Bethea/Ticket-Lifecycle/assets/139162550/a3ff80c3-566b-48f4-aaa6-e2ceb7fd1063" height="70%" width="70%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+<img src="https://github.com/M-Bethea/Ticket-Lifecycle/assets/139162550/ba4a9bde-db47-443c-b285-344fe8602eb2" height="70%" width="70%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 
