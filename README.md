@@ -49,15 +49,17 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
   &nbsp; A. Open a ticket and change the Priority Level, Assigned To and SLA. By hovering over current statuses <br>
   &nbsp;  &nbsp; i. Make priority "Emergency" <br>
   &nbsp; &nbsp;  &nbsp; i. Make severity "Sev-A" <br>
-  &nbsp; &nbsp; &nbsp; &nbsp;  i. Transfer the ticket to another department <br>
-B. Make note of transfer <br>
-  &nbsp; i. When "resolved", close the ticket
+  &nbsp; &nbsp; &nbsp; &nbsp;  i. Transfer the ticket to another department
 </p>
 <p>
 <img src="https://github.com/M-Bethea/Ticket-Lifecycle/assets/139162550/a3ff80c3-566b-48f4-aaa6-e2ceb7fd1063" height="70%" width="70%" alt="Ticket Transfer"/>
 </p>
 <p>
 <img src="https://github.com/M-Bethea/Ticket-Lifecycle/assets/139162550/ba4a9bde-db47-443c-b285-344fe8602eb2" height="70%" width="70%" alt="Ticket Transfer"/>
+</p>
+<p>
+  B. Make note of transfer <br>
+  &nbsp; i. When "resolved", close the ticket
 </p>
 <p>
 <img src="https://github.com/M-Bethea/Ticket-Lifecycle/assets/139162550/b5326fbd-be51-4ffe-809a-3284ca477097" height="70%" width="70%" alt="Ticket Transfer"/>
